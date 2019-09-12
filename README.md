@@ -1,2 +1,2 @@
 # Operational-thinking-Program-Design
-Cross homework
+Course homework
